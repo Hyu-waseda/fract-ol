@@ -19,6 +19,6 @@ Example:
 ./fractol Mandelbrot
 ```
 
-
+↓マンデルブロ集合↓
 https://user-images.githubusercontent.com/95074991/171661413-7d341238-0714-4e78-9caa-c7fd704b9ad0.mov
 
